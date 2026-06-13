@@ -1,0 +1,10 @@
+.app {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 2rem;
+}
+.title {
+  color: hsl(210, 40%, 20%);
+  margin-bottom: 1rem;
+}
